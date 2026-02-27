@@ -3,7 +3,7 @@ import React from "react";
 function Experience() {
   const experiences = [
 {
-      role: "AI & Automation Intern", // Changed from title
+      role: "Java Full Stack Intern", // Changed from title
       company: "Infosys Springboard", // Changed from organization
       duration: "Oct 2025 - Dec 2025",
       description: "Project: InsurAI - Corporate Policy Automation and Intelligence System. Focused on streamlining policy management using AI." // Changed from details
