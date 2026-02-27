@@ -142,7 +142,7 @@ function About() {
           }
         >
           <img
-            src="/ponshivavelproff.png"
+            src="./ponshivavelproff.png"
             alt="Ponshivavel S K"
             style={imageStyle}
             onMouseOver={(e) =>
