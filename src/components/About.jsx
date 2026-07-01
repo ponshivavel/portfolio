@@ -123,7 +123,9 @@ function About() {
       return () => clearTimeout(t);
     }
     if (index2 === secondLine.length) {
-      setTypingDone(true);
+      // Avoid setting state during effect render phase; defer to next tick.
+      const tDone = setTimeout(() => setTypingDone(true), 0);
+      return () => clearTimeout(tDone);
     }
   }, [index1, index2, displayText2]);
 
