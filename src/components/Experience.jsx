@@ -8,14 +8,7 @@ function Experience() {
       duration: "OCT 2025 - DEC 2025",
       description: "Project: InsurAI - Corporate Policy Automation and Intelligence System. Focused on streamlining policy management using AI." // Changed from details
     },
-    {
-      role: "Java Developer",
-      company: "Infosys Springboard",
-      duration: "Oct 2025 - Dec 2025 . 3 mos",
-      location: "Remote",
-      description:
-        "Java Development, React.js and java Spring Boot, SQL, and Power BI. Developed a full-stack insurance management app to manage policies, track claims, and visualize analytics using React, Spring Boot, and SQL."
-    },
+   
     {
       role: "Data Science Intern",
       company: "SmartED",
