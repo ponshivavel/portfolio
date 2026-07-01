@@ -25,8 +25,12 @@ const skillsGrid = {
   gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))",
   gap: "20px",
   maxWidth: "900px",
-  margin: "0 auto"
+  margin: "0 auto",
+  justifyItems: "center",
+  justifyContent: "center",
+  alignItems: "center"
 };
+
 
 const skillCard = {
   padding: "14px 18px",

@@ -94,7 +94,7 @@ const blinkArrowStyle = {
 
 function About() {
   const firstLine =
-    "I am a 3rd-year AI & Data Science student passionate about solving real-world problems using Artificial Intelligence, Data Analytics, and Data Visualization.";
+    "I am a Final year AI & Data Science student passionate about solving real-world problems using Artificial Intelligence, Data Analytics, and Data Visualization.";
   const secondLine =
     "I enjoy working with Python, Java, SQL, and Power BI, and I love building simple and impactful projects that help me learn faster.";
 
@@ -165,7 +165,7 @@ function About() {
             <>
               <div style={divider}></div>
               <a
-                href="https://docs.google.com/document/d/1lJXFyhwYJjC2z8GB-yWnh2eG55tRgWSCgGCHJcqIJZ0/edit?usp=sharing"
+                href="https://drive.google.com/drive/folders/1AfJG8DWKBOaEG_bhatF28hjX-jFM2p7z"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={resumeStyle}

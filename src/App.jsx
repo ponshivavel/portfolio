@@ -4,6 +4,7 @@ import Skills from "./components/Skills.jsx";
 import Experience from "./components/Experience.jsx";
 import Projects from "./components/Projects.jsx";
 import Contact from "./components/Contact.jsx";
+import Achievements from "./components/Achievements.jsx";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <About />
         <Skills />
         <Experience />   {/* Added Internship Section */}
+        <Achievements />
         <Projects />
         <Contact />
       </main>
@@ -21,3 +23,4 @@ function App() {
 }
 
 export default App;
+
